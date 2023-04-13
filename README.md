@@ -1,4 +1,4 @@
-[ENG ver](https://github.com/CN-Android-device-Development/official_devices/READMEENG.md)
+[ENG ver](https://github.com/CN-Android-device-Development/official_devices/blob/main/READMEENG.md)
 
 CDT（CN Android device Development）开发人员条款
 
