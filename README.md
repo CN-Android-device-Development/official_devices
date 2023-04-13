@@ -1,3 +1,5 @@
+[ENG ver](https://github.com/CN-Android-device-Development/official_devices/READMEENG.md)
+
 CDT（CN Android device Development）开发人员条款
 
 CN Android device Development是由YomiSasaki所发起的非盈利性组织，本组织会审核并提供开发者所申请的设备，开发者必须做到以下条款内容
