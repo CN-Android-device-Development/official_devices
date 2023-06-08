@@ -26,4 +26,4 @@ CN Android device Development是由YomiSasaki所发起的非盈利性组织，�
 
 
 # 申请设备
-如果您同意以上条款 [申请链接](https://github.com/CN-Android-device-Development/official_devices/issues/1)
+如果您同意以上条款 [申请链接](https://github.com/CN-Android-device-Development/official_devices/issues/2)
