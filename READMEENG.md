@@ -24,4 +24,4 @@ When the developer finally meets all requirements, we will announce through the 
 
 # Apply for equipment 
 
-If you agree to the above terms [application link](https://github.com/CN-Android-device-Development/official_devices/issues/1)
+If you agree to the above terms [application link](https://github.com/CN-Android-device-Development/official_devices/issues/2)
